@@ -1,0 +1,14 @@
+{
+  "name": "slack.js",
+  "version": "1.0.0",
+  "description": "The simplest way to build a Slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/anli5005/slack.js",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.24"
+  }
+}
